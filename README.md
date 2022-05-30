@@ -13,18 +13,17 @@
 
 
 ## Planen
-Ich habe mich für Keepass 2 entschieden, weil ich SecureSafe bereits hatte und ich etwas neues kennelernen wollte. Warum genau?
+#### Zeitplan
 
-## Entwickeln
-Um den keepass benutzen zu können, muss man diesen zuerst downloaden. Ich habe diesen auf der eignen Webseite von Keepass heruntergeladen und anschliessend die .exe Datei ausgeführt. 
-Danach musste ich die Sprache Deutsch wählen, die Lizenzvereinbarung akzeptieren, den Speicherort und die dazugehörigen Komponenten auswählen.
-Kurz vor dem installieren konnte man die zusätzlichen aufgaben wie z.B ein "Desktopsymbol erstellen" auswählen. Schliesslich habe ich das programm installiert.  
+
+
+## Entscheiden
+#### Entscheidungsliste
+
 
 ## Realisieren
 
-| Zahl      | Erklärung | 
-| ----------- | ----------- | 
-| 1   | Neue Datenbank    | 
+
 
 
 
