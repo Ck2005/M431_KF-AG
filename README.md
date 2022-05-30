@@ -5,25 +5,12 @@
 ### SMART kritereien:
 | Kriterium      |
 | ----------- |
-| Brute-Force-Schutz     |
-| Keylogger-Schutz   |
-| Schutz Zwischenablage     |
-| Verschlüsselungs Datenbank   |
-| Authentifizierung     |
-| Automatische Passwortgenerierung    |
-| Passwortwiederherstellung     |
-| Verfügbarkeit    |
+|   Unsere Webseite enthält ein Dropdown-Menü mit mindestens zwei Programmiersprachen. Falls wir bis am 20.06 fertig sind, wird eine weitere Sprache hinzugefügt.  |
+| Unser Lernjournal wurde zeitnah ausgefüllt.  |
+| Wir präsentieren unsere Website funktionierend  |
+| Das Vorgehen wird nachweisbar anhand der Entscheidungstabelle durchgeführt.   |
 
-Begriffe: 
-Was ist die eigene Softwaretastatur von Android:
-Das ist ein Weg im Browser direkt auf die Passwörter der App zuzugreifen, ohne es in der Zwischenablage abzuspeichern. Das macht es sicherer. So kann verhindert werden, das aussenstehende Informationen über die Ram abhören.
 
-AES 256:
-Ist eines der sichersten und meistgenutzen Verschlüsselungsverfahren.
-mTAN:
-Die TAN-nummer wird auf das Mobile Gerät geschickt. Die TAN-Nummer ist ein Einmaliger Code
-OTP:
-One-Time-Pad, einmalverschlüsselung
 
 ## Planen
 Ich habe mich für Keepass 2 entschieden, weil ich SecureSafe bereits hatte und ich etwas neues kennelernen wollte. Warum genau?
