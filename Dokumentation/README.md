@@ -13,7 +13,7 @@
 
 
 ## Planen
-#### [Zeitplan](/Dokumentation/Zeitplan)
+#### [Zeitplan](/Dokumentation/Zeitplan/Zeitplan.PNG)
 #### [Nutzwertanalyse](/Dokumentation/Nutzwertanalyse)
 
 
