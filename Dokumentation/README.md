@@ -13,12 +13,12 @@
 
 
 ## Planen
-#### [Zeitplan](/Zeitplan)
-#### [Nutzwertanalyse](/Nutzwertanalyse)
+#### [Zeitplan](/Dokumentation/Zeitplan)
+#### [Nutzwertanalyse](/Dokumentation/Nutzwertanalyse)
 
 
 ## Entscheiden
-#### [Entscheidungsliste](/Entscheidungsliste)
+#### [Entscheidungsliste](/Dokumentation/Entscheidungsliste)
 | Entscheidung| Lösung | 
 | ----------- | -----| 
 | ----------- | -----| 
