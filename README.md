@@ -19,6 +19,19 @@
 
 ## Entscheiden
 #### Entscheidungsliste
+| Entscheidung| Lösung | 
+| ----------- | -----| 
+| ----------- | -----| 
+| ----------- | -----| 
+| ----------- | -----| 
+| ----------- | -----| 
+| ----------- | -----| 
+| ----------- | -----| 
+| ----------- | -----| 
+| ----------- | -----| 
+| ----------- | -----| 
+| ----------- | -----| 
+| ----------- | -----| 
 
 
 ## Realisieren
@@ -28,8 +41,7 @@
 
 
 ## Kontrolle
-| Quelle      | Link |  Datum  |  
-| ----------- | -----| ---------|   
-| Installation Keepass   | https://www.computerbild.de/fotos/KeePass-2-Installation-und-erste-Schritte-4726252.html#17    | 25.10.2021 | 
+| Quelle      | Link | 
+| ----------- | -----| 
  
 ## Abgabe
