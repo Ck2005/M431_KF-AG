@@ -1,5 +1,5 @@
 #### SMART kritereien:
-| Kriterium      |
+|Kriterium |
 | ----------- |
 |   Unsere Webseite enthält ein Dropdown-Menü mit mindestens zwei Programmiersprachen. Falls wir bis am 20.06 fertig sind, wird eine weitere Sprache hinzugefügt.  |
 | Unser Lernjournal wurde zeitnah ausgefüllt.  |
