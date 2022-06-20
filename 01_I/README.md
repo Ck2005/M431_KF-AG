@@ -5,3 +5,5 @@
 | Unser Lernjournal wurde zeitnah ausgefüllt.  |
 | Wir präsentieren unsere Website funktionierend  |
 | Das Vorgehen wird nachweisbar anhand der Entscheidungstabelle durchgeführt.   |
+---
+#### [Home](/../..)
