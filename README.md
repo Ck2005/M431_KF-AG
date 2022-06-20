@@ -1,47 +1,11 @@
-# Dokumentation
-
-## Informieren
-
-#### SMART kritereien:
-| Kriterium      |
-| ----------- |
-|   Unsere Webseite enthält ein Dropdown-Menü mit mindestens zwei Programmiersprachen. Falls wir bis am 20.06 fertig sind, wird eine weitere Sprache hinzugefügt.  |
-| Unser Lernjournal wurde zeitnah ausgefüllt.  |
-| Wir präsentieren unsere Website funktionierend  |
-| Das Vorgehen wird nachweisbar anhand der Entscheidungstabelle durchgeführt.   |
-
-
-
-## Planen
-#### Zeitplan
-
-
-
-## Entscheiden
-#### Entscheidungsliste
-| Entscheidung| Lösung | 
-| ----------- | -----| 
-| ----------- | -----| 
-| ----------- | -----| 
-| ----------- | -----| 
-| ----------- | -----| 
-| ----------- | -----| 
-| ----------- | -----| 
-| ----------- | -----| 
-| ----------- | -----| 
-| ----------- | -----| 
-| ----------- | -----| 
-| ----------- | -----| 
-
-
-## Realisieren
-
-
-
-
-
-## Kontrolle
-| Quelle      | Link | 
-| ----------- | -----| 
- 
-## Abgabe
+# Wilkommen!
+## Repository von Cyrill Kälin und Silvan Frutiger des Moduls 431
+### Unsere Webseite
+- [HIER](https://cyrillkaelin.ch/)
+### Navigation auf unserem Repository
+- [Informieren](/01_I)
+- [Planen](/02_P)
+- [Entscheiden](/03_E)
+- [Realisieren](/04_R)
+- [Kontrollieren](/05_K)
+- [Auswerten](/06_A)
